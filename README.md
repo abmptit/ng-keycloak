@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Blog
+In this repository we are applying the following steps :
+https://blog.ineat-group.com/2018/08/securisez-vos-apis-spring-avec-keycloak-4-utilisation-du-connecteur-keycloak-js-avec-angular-6/
